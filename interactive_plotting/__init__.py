@@ -1,4 +1,4 @@
-from . import utils as utils
+from . import utils
 
 from .bokeh_plots import interactive_hist, \
                          thresholding_hist, \
