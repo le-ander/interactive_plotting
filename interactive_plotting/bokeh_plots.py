@@ -22,7 +22,7 @@ import matplotlib
 import bokeh
 
 
-from .utils import sample_unif, sample_density, to_hex_palette
+from ._utils import sample_unif, sample_density, to_hex_palette
 from bokeh.plotting import figure, show, save as bokeh_save
 from bokeh.models import ColumnDataSource, Slider, HoverTool, ColorBar, \
         Patches, Legend, CustomJS, TextInput, LabelSet, Select 
