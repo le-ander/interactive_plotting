@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from ._utils import *
+from .utils import *
 
 from collections import OrderedDict as odict
 
