@@ -7,6 +7,6 @@ from .holoviews_plots import scatter, scatterc, dpt, graph
 
 #import interactive_plotting.experimental as ex
 
-from . import utils
+from . import utils as utils
 
 from . import experimental as ex
